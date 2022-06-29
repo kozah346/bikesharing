@@ -72,7 +72,13 @@ Despite the above analysis, 2 more ways are seen to be crucial in presenting the
     <img width="1512" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/101376325/176440042-ce6e0dc8-049a-4eb8-9902-50ea7c7e7657.png">
 
 
-In conclusion, the key hurdle will be how to encourage female bikeriding participation as this will make the business thrive even more. 
+In conclusion, the key hurdle will be how to encourage female bikeriding participation as this will make the business thrive even more. The following links shows the analysis in Tableau that will give further insight:
+
+ https://public.tableau.com/authoring/NYCBikeriding/customers#1
+
+ https://public.tableau.com/app/profile/derrick.nyagesuka/viz/Bikeridingadditionalanalysis/Story5
+
+
 
      
 
